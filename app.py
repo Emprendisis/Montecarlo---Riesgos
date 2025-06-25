@@ -82,7 +82,7 @@ def montecarlo_simulator(frequency_type, frequency_params, severity_type, severi
     return df, stats
 
 # Streamlit app
-st.title("Simulador Monte Carlo con Análisis de Riesgos Mejorado")
+st.title("Simulador Montecarlo con Análisis de Riesgos Mejorado")
 
 # Inputs Frecuencia
 st.sidebar.header("Frecuencia")
